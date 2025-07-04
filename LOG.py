@@ -11,7 +11,7 @@ top.geometry("1300x650")
 
 def show():
     if e2.cget("show")=="*":
-        e2.config(show=="")
+        e2.config(show="")
     else:
         e2.config(show="*")
 

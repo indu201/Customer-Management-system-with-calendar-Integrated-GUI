@@ -22,7 +22,7 @@ def exit():
 
 def show():
     if e7.cget("show")=="*":
-        e7.config(show=="")
+        e7.config(show="")
     else:
         e7.config(show="*")
 

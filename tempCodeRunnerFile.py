@@ -1,2 +1,1 @@
-bel(top, image=img)
-# L12.pac
+    k4=int(e4.get())
